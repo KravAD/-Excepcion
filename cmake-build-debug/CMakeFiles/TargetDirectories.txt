@@ -1,0 +1,3 @@
+C:/Users/mikef/OneDrive/Documentos/GitHub/-Excepcion/cmake-build-debug/CMakeFiles/_Excepcion.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/-Excepcion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/-Excepcion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
