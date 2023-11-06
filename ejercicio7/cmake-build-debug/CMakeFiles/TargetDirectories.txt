@@ -1,0 +1,3 @@
+/Users/sofivazsanch/Documents/GitHub/Excepciones/Sofia/ejercicio7/cmake-build-debug/CMakeFiles/ejercicio7.dir
+/Users/sofivazsanch/Documents/GitHub/Excepciones/Sofia/ejercicio7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofivazsanch/Documents/GitHub/Excepciones/Sofia/ejercicio7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
