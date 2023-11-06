@@ -1,0 +1,4 @@
+C:/Users/krave/OneDrive/Documentos/GitHub/-Excepcion/Dima/cmake-build-debug/CMakeFiles/Ejercicio2.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/-Excepcion/Dima/cmake-build-debug/CMakeFiles/Ejercicio8.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/-Excepcion/Dima/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/-Excepcion/Dima/cmake-build-debug/CMakeFiles/rebuild_cache.dir
